@@ -1,3 +1,5 @@
+// 6510405814 Sornchai Somsakul
+
 import controllers.DuckSimulator;
 import factories.AbstractDuckFactory;
 import factories.CountAndPoliteDuckFactory;

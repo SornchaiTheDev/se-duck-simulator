@@ -1,3 +1,5 @@
+// 6510405814 Sornchai Somsakul
+
 package adapters;
 
 import interfaces.Quackable;
